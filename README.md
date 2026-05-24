@@ -79,6 +79,20 @@ Model successfully predicted:
 - Larger dataset training
 
 ---
+## Accuracy Graph
 
+![Accuracy](images/accuracy%20graph%20HAR.png)
+
+## Loss Graph
+
+![Loss](images/loss%20graph%20HAR.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion%20matrix.png)
+
+## Prediction Output
+
+![Prediction](images/predicted%20output.png)
 ## Author
 Jagruthi Reddy
